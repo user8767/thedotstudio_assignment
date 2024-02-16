@@ -1,1 +1,1 @@
-made using html and css with hiver effects and responsive design.
+made using html and css with hover effects and responsive design.
